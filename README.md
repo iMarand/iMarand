@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/iMarand?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00ffcc&label=Followers)](https://github.com/iMarand)
+<!--- [![GitHub followers](https://img.shields.io/github/followers/iMarand?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00ffcc&label=Followers)](https://github.com/iMarand)
 [![GitHub stars](https://img.shields.io/github/stars/iMarand?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00ffcc&label=Total%20Stars)](https://github.com/iMarand)
-![Profile Views](https://komarev.com/ghpvc/?username=iMarand&style=for-the-badge&color=00ffcc&labelColor=0d1117&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=iMarand&style=for-the-badge&color=00ffcc&labelColor=0d1117&label=PROFILE+VIEWS) --->
 
 </div>
 
