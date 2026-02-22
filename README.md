@@ -49,12 +49,6 @@ motto: "Build fast. Ship clean. Iterate relentlessly."
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=iMarand&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&border_color=00ffcc&border_radius=15&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMarand&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=00ffcc&border_radius=15&langs_count=8&hide_border=false" height="180"/>
-
-<br/><br/>
-
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iMarand&theme=dark&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=ffffff&dates=888888&border=00FFCC&border_radius=15" height="180"/>
 
