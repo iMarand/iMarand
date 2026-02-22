@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=iMarand&fontSize=90&fontColor=fff&animation=twinkling&stroke=00ffcc&strokeWidth=2&desc=Building%20the%20Future%2C%20One%20Commit%20and%20is%20Done&descSize=18&descAlignY=75&descColor=aaffee" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+%26+Developer+;Real-Time+%26+gRPC+Engineer+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+%20+Developer+;Real-Time-Communication+%26+gRPC+Engineer+" alt="Typing SVG" />
 
 <br/>
 
